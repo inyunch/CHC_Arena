@@ -1,0 +1,24 @@
+[RESOURCES]
+package_tech
+bottle_tech
+filling_tech
+refilling_tech
+recycle
+can_tech
+[VARIABLES]
+refilling Process.NumberIn
+refilling Process.NumberOut
+Filling Process.NumberOut
+can.NumberOut
+bottle.NumberOut
+garbage dispose.NumberOut
+Shipping.NumberOut
+Filling Process.NumberIn
+can process.NumberOut
+can process.NumberIn
+damaged item process.NumberOut
+damaged item process.NumberIn
+package Process.NumberOut
+bottle process.NumberIn
+bottle process.NumberOut
+package Process.NumberIn

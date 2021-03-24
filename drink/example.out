@@ -1,0 +1,85 @@
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 7/21/2020
+Analyst: ingrid                                                      Model revision date: 7/21/2020
+
+Replication ended at time      : 80.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .58681     .00843     .21200     .75161        510    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        510    
+Entity 1.WaitTime                           3.2164     (Corr)     .00000     7.0621        510    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        510    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        510    
+Entity 1.TotalTime                          3.8032     (Corr)     .21909     7.7112        510    
+refilling Process.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000        124    
+damaged item process.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000         22    
+package Process.Queue.WaitingTime           .00000     .00000     .00000     .00000        490    
+bottle process.Queue.WaitingTime            .14360     (Insuf)    .00000     .89750        311    
+can process.Queue.WaitingTime               .02022     (Insuf)    .00000     .20160        235    
+Filling Process.Queue.WaitingTime           3.1359     (Corr)     .00000     6.9315        513    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                25.821     (Corr)     .00000     51.000     36.000    
+package_tech.NumberBusy                     1.7665     (Corr)     .00000     4.0000     2.0000    
+package_tech.NumberScheduled                4.0000     (Insuf)    4.0000     4.0000     4.0000    
+package_tech.Utilization                    .44163     (Corr)     .00000     1.0000     .50000    
+bottle_tech.NumberBusy                      .64897     (Insuf)    .00000     1.0000     .00000    
+bottle_tech.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+bottle_tech.Utilization                     .64897     (Insuf)    .00000     1.0000     .00000    
+filling_tech.NumberBusy                     .99075     (Insuf)    .00000     1.0000     1.0000    
+filling_tech.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+filling_tech.Utilization                    .99075     (Insuf)    .00000     1.0000     1.0000    
+refilling_tech.NumberBusy                   .10368     (Insuf)    .00000     1.0000     .00000    
+refilling_tech.NumberScheduled              2.0000     (Insuf)    2.0000     2.0000     2.0000    
+refilling_tech.Utilization                  .05184     (Insuf)    .00000     .50000     .00000    
+recycle.NumberBusy                          .00459     (Insuf)    .00000     1.0000     .00000    
+recycle.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+recycle.Utilization                         .00459     (Insuf)    .00000     1.0000     .00000    
+can_tech.NumberBusy                         .29492     .03692     .00000     1.0000     .00000    
+can_tech.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+can_tech.Utilization                        .29492     .03692     .00000     1.0000     .00000    
+refilling Process.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+damaged item process.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+package Process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+bottle process.Queue.NumberInQueue          .55826     .20330     .00000     6.0000     .00000    
+can process.Queue.NumberInQueue             .05940     (Insuf)    .00000     2.0000     .00000    
+Filling Process.Queue.NumberInQueue         21.394     (Corr)     .00000     46.000     33.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           546.00    
+Entity 1.NumberOut                          510.00    
+package_tech.NumberSeized                   490.00    
+package_tech.ScheduledUtilization           .44163    
+bottle_tech.NumberSeized                    311.00    
+bottle_tech.ScheduledUtilization            .64897    
+filling_tech.NumberSeized                   513.00    
+filling_tech.ScheduledUtilization           .99075    
+refilling_tech.NumberSeized                 124.00    
+refilling_tech.ScheduledUtilization         .05184    
+recycle.NumberSeized                        22.000    
+recycle.ScheduledUtilization                .00459    
+can_tech.NumberSeized                       235.00    
+can_tech.ScheduledUtilization               .29492    
+System.NumberOut                            510.00    
+
+
+Simulation run time: 0.48 minutes.
+Simulation run complete.
