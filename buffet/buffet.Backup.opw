@@ -1,0 +1,19 @@
+[RESOURCES]
+[VARIABLES]
+Process 5.NumberOut
+Process 4.NumberOut
+Process 2.NumberOut
+Process 2.NumberIn
+Process 3.NumberIn
+Process 1.NumberIn
+delay_deepfried
+Create 3.NumberOut
+Create 1.NumberOut
+delay_salad
+Dispose 1.NumberOut
+delay_seafood
+Process 5.NumberIn
+Process 4.NumberIn
+Process 3.NumberOut
+delay_meat
+Process 1.NumberOut

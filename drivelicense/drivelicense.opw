@@ -1,0 +1,15 @@
+[RESOURCES]
+Neil
+Jean
+Kathy
+Mary
+Sue
+[VARIABLES]
+renew.NumberOut
+Dispose 2.NumberOut
+New.NumberOut
+Dispose 1.NumberOut
+renew process.NumberIn
+renew process.NumberOut
+new process.NumberOut
+new process.NumberIn

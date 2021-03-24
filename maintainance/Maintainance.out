@@ -1,0 +1,554 @@
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08368     (Insuf)    .05846     .10264        179    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        179    
+Entity 1.WaitTime                           .24887     (Insuf)    .00000     1.4962        179    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        179    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        179    
+Entity 1.TotalTime                          .33255     (Insuf)    .06392     1.5635        179    
+Process 1.Queue.WaitingTime                 .24211     (Insuf)    .00000     1.4962        184    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                5.9719     (Corr)     .00000     28.000     5.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.5172     (Insuf)    .00000     10.000     5.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .15172     (Insuf)    .00000     1.0000     .50000    
+Process 1.Queue.NumberInQueue               4.4547     (Insuf)    .00000     28.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           184.00    
+Entity 1.NumberOut                          179.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         184.00    
+Type_2.ScheduledUtilization                 .15172    
+System.NumberOut                            179.00    
+
+Beginning replication 2 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 2 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08348     (Insuf)    .06381     .11186        193    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        193    
+Entity 1.WaitTime                           .29076     (Insuf)    .00000     1.4933        193    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        193    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        193    
+Entity 1.TotalTime                          .37424     (Insuf)    .06381     1.5818        193    
+Process 1.Queue.WaitingTime                 .28631     (Insuf)    .00000     1.4933        196    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.2409     (Corr)     .00000     35.000     3.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.6292     (Insuf)    .00000     10.000     3.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .16292     (Insuf)    .00000     1.0000     .30000    
+Process 1.Queue.NumberInQueue               5.6116     (Insuf)    .00000     35.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           196.00    
+Entity 1.NumberOut                          193.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         196.00    
+Type_2.ScheduledUtilization                 .16292    
+System.NumberOut                            193.00    
+
+Beginning replication 3 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 3 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08317     (Insuf)    .06130     .10901        214    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        214    
+Entity 1.WaitTime                           .27979     (Insuf)    .00000     1.4981        214    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        214    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        214    
+Entity 1.TotalTime                          .36296     (Insuf)    .06130     1.5692        214    
+Process 1.Queue.WaitingTime                 .27849     (Insuf)    .00000     1.4981        215    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.7686     (Corr)     .00000     35.000     1.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.7810     (Insuf)    .00000     10.000     1.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .17811     (Insuf)    .00000     1.0000     .10000    
+Process 1.Queue.NumberInQueue               5.9875     (Insuf)    .00000     32.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           215.00    
+Entity 1.NumberOut                          214.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         215.00    
+Type_2.ScheduledUtilization                 .17811    
+System.NumberOut                            214.00    
+
+Beginning replication 4 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 4 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08322     (Insuf)    .06031     .10460        216    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        216    
+Entity 1.WaitTime                           .28031     (Insuf)    .00000     1.4769        216    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        216    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        216    
+Entity 1.TotalTime                          .36353     (Insuf)    .06307     1.5582        216    
+Process 1.Queue.WaitingTime                 .27902     (Insuf)    .00000     1.4769        217    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.8548     (Corr)     .00000     41.000     1.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.8001     (Insuf)    .00000     10.000     1.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .18001     (Insuf)    .00000     1.0000     .10000    
+Process 1.Queue.NumberInQueue               6.0547     (Insuf)    .00000     41.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           217.00    
+Entity 1.NumberOut                          216.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         217.00    
+Type_2.ScheduledUtilization                 .18001    
+System.NumberOut                            216.00    
+
+Beginning replication 5 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 5 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08280     (Insuf)    .06186     .10540        225    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        225    
+Entity 1.WaitTime                           .26109     (Insuf)    .00000     1.4870        225    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        225    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        225    
+Entity 1.TotalTime                          .34388     (Insuf)    .06186     1.5853        225    
+Process 1.Queue.WaitingTime                 .25879     (Insuf)    .00000     1.4870        227    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.7438     (Corr)     .00000     36.000     2.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.8694     (Insuf)    .00000     10.000     2.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .18694     (Insuf)    .00000     1.0000     .20000    
+Process 1.Queue.NumberInQueue               5.8744     (Insuf)    .00000     36.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           227.00    
+Entity 1.NumberOut                          225.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         227.00    
+Type_2.ScheduledUtilization                 .18694    
+System.NumberOut                            225.00    
+
+Beginning replication 6 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 6 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08293     (Insuf)    .06472     .10729        222    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        222    
+Entity 1.WaitTime                           .25911     (Insuf)    .00000     1.4150        222    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        222    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        222    
+Entity 1.TotalTime                          .34205     (Insuf)    .06472     1.5052        222    
+Process 1.Queue.WaitingTime                 .25680     (Insuf)    .00000     1.4150        224    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.6040     (Corr)     .00000     36.000     2.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.8516     (Insuf)    .00000     10.000     2.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .18517     (Insuf)    .00000     1.0000     .20000    
+Process 1.Queue.NumberInQueue               5.7523     (Insuf)    .00000     33.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           224.00    
+Entity 1.NumberOut                          222.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         224.00    
+Type_2.ScheduledUtilization                 .18517    
+System.NumberOut                            222.00    
+
+Beginning replication 7 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 7 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08372     (Insuf)    .06586     .10269        177    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        177    
+Entity 1.WaitTime                           .19754     (Insuf)    .00000     1.4783        177    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        177    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        177    
+Entity 1.TotalTime                          .28125     (Insuf)    .06586     1.5566        177    
+Process 1.Queue.WaitingTime                 .19754     (Insuf)    .00000     1.4783        177    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                4.9781     (Corr)     .00000     30.000     .00000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.4817     (Insuf)    .00000     10.000     .00000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .14818     (Insuf)    .00000     1.0000     .00000    
+Process 1.Queue.NumberInQueue               3.4964     (Insuf)    .00000     28.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           177.00    
+Entity 1.NumberOut                          177.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         177.00    
+Type_2.ScheduledUtilization                 .14818    
+System.NumberOut                            177.00    
+
+Beginning replication 8 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 8 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08401     (Insuf)    .06011     .11007        190    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        190    
+Entity 1.WaitTime                           .28272     (Insuf)    .00000     1.4209        190    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        190    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        190    
+Entity 1.TotalTime                          .36673     (Insuf)    .06566     1.5013        190    
+Process 1.Queue.WaitingTime                 .27978     (Insuf)    .00000     1.4209        192    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                6.9747     (Corr)     .00000     37.000     2.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.6030     (Insuf)    .00000     10.000     2.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .16031     (Insuf)    .00000     1.0000     .20000    
+Process 1.Queue.NumberInQueue               5.3716     (Insuf)    .00000     36.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           192.00    
+Entity 1.NumberOut                          190.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         192.00    
+Type_2.ScheduledUtilization                 .16031    
+System.NumberOut                            190.00    
+
+Beginning replication 9 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 9 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08338     (Insuf)    .06030     .10236        213    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        213    
+Entity 1.WaitTime                           .20821     (Insuf)    .00000     1.3898        213    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        213    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        213    
+Entity 1.TotalTime                          .29159     (Insuf)    .06385     1.4728        213    
+Process 1.Queue.WaitingTime                 .20627     (Insuf)    .00000     1.3898        215    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                6.2179     (Corr)     .00000     33.000     2.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.7830     (Insuf)    .00000     10.000     2.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .17831     (Insuf)    .00000     1.0000     .20000    
+Process 1.Queue.NumberInQueue               4.4348     (Insuf)    .00000     30.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           215.00    
+Entity 1.NumberOut                          213.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         215.00    
+Type_2.ScheduledUtilization                 .17831    
+System.NumberOut                            213.00    
+
+Beginning replication 10 of 10
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 10 of 10
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08250     (Insuf)    .06096     .10419        203    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        203    
+Entity 1.WaitTime                           .24322     (Insuf)    .00000     1.4935        203    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        203    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        203    
+Entity 1.TotalTime                          .32571     (Insuf)    .06096     1.5766        203    
+Process 1.Queue.WaitingTime                 .24202     (Insuf)    .00000     1.4935        204    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                6.6148     (Corr)     .00000     33.000     1.0000    
+Type_1.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Type_1.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_1.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Type_2.NumberBusy                           1.6775     (Insuf)    .00000     10.000     1.0000    
+Type_2.NumberScheduled                      10.000     (Insuf)    10.000     10.000     10.000    
+Type_2.Utilization                          .16775     (Insuf)    .00000     1.0000     .10000    
+Process 1.Queue.NumberInQueue               4.9372     (Insuf)    .00000     33.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           204.00    
+Entity 1.NumberOut                          203.00    
+Type_1.NumberSeized                         .00000    
+Type_1.ScheduledUtilization                 .00000    
+Type_2.NumberSeized                         204.00    
+Type_2.ScheduledUtilization                 .16775    
+System.NumberOut                            203.00    
+
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                 Output Summary for 10 Replications
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Entity 1.NumberIn                           205.10     12.308     177.00     227.00     10
+Entity 1.NumberOut                          203.20     12.516     177.00     225.00     10
+Type_1.NumberSeized                         .00000     .00000     .00000     .00000     10
+Type_1.ScheduledUtilization                 .00000     .00000     .00000     .00000     10
+Type_2.NumberSeized                         205.10     12.308     177.00     227.00     10
+Type_2.ScheduledUtilization                 .16994     .00986     .14818     .18694     10
+System.NumberOut                            203.20     12.516     177.00     225.00     10
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

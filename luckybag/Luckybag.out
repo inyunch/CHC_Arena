@@ -1,0 +1,61 @@
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 18.437742 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity_Customer.VATime                      .00000     (Insuf)    .00000     .00000        100    
+Entity_Customer.NVATime                     .00000     (Insuf)    .00000     .00000        100    
+Entity_Customer.WaitTime                    9.4465     (Insuf)    .06198     18.437        100    
+Entity_Customer.TranTime                    .00000     (Insuf)    .00000     .00000        100    
+Entity_Customer.OtherTime                   .00000     (Insuf)    .00000     .00000        100    
+Entity_Customer.TotalTime                   9.4465     (Insuf)    .06198     18.437        100    
+Entity_Luckybag.VATime                          --         --         --         --          0
+Entity_Luckybag.NVATime                         --         --         --         --          0
+Entity_Luckybag.WaitTime                        --         --         --         --          0
+Entity_Luckybag.TranTime                        --         --         --         --          0
+Entity_Luckybag.OtherTime                       --         --         --         --          0
+Entity_Luckybag.TotalTime                       --         --         --         --          0
+Hold_Luckybag.Queue.WaitingTime             9.4465     (Insuf)    .06198     18.437        100    
+Seize_Clerk.Queue.WaitingTime               .03145     (Insuf)    .00000     .18944        100    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity_Customer.WIP                         .54156     (Insuf)    .00000     5.0000     .00000    
+Entity_Luckybag.WIP                         51.234     (Insuf)    .00000     100.00     .00000    
+Clerk.NumberBusy                            .37096     (Insuf)    .00000     1.0000     .00000    
+Clerk.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Clerk.Utilization                           .37096     (Insuf)    .00000     1.0000     .00000    
+Hold_Luckybag.Queue.NumberInQueue           51.234     (Insuf)    .00000     100.00     .00000    
+Seize_Clerk.Queue.NumberInQueue             .17060     (Insuf)    .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity_Customer.NumberIn                    200.00    
+Entity_Customer.NumberOut                   200.00    
+Entity_Luckybag.NumberIn                    100.00    
+Entity_Luckybag.NumberOut                   100.00    
+Clerk.NumberSeized                          100.00    
+Clerk.ScheduledUtilization                  .37096    
+System.NumberOut                            100.00    
+
+
+Simulation run time: 0.08 minutes.
+Simulation run complete.

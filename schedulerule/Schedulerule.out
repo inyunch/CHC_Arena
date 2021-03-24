@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .04859     (Corr)     .00000     .27520        439    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        439    
+Entity 1.WaitTime                           .04645     (Corr)     .00000     .50111        439    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        439    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        439    
+Entity 1.TotalTime                          .09503     (Corr)     .00000     .65582        439    
+Bank.Queue.WaitingTime                      .09310     (Insuf)    .00000     .50111        219    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                1.7383     (Corr)     .00000     16.000     .00000    
+Clerk.NumberBusy                            .88876     (Insuf)    .00000     5.0000     .00000    
+Clerk.NumberScheduled                       1.2500     (Insuf)    .00000     5.0000     .00000    
+Clerk.Utilization                           .22024     (Insuf)    .00000     1.0000     .00000    
+Bank.Queue.NumberInQueue                    .84956     (Insuf)    .00000     13.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           439.00    
+Entity 1.NumberOut                          439.00    
+Clerk.NumberSeized                          219.00    
+Clerk.ScheduledUtilization                  .71101    
+System.NumberOut                            439.00    
+
+
+Simulation run time: 0.57 minutes.
+Simulation run complete.

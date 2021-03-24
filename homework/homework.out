@@ -1,0 +1,380 @@
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/28/2020
+Analyst: ingrid                                                      Model revision date: 7/28/2020
+
+Replication ended at time      : 240.0 Minutes (Friday, July 31, 2020, 13:24:00)
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+entity student.VATime                       19.297     (Insuf)    15.089     27.124         15    
+entity student.NVATime                      .00000     (Insuf)    .00000     .00000         15    
+entity student.WaitTime                     .65212     (Insuf)    .00000     5.4406         15    
+entity student.TranTime                     .00000     (Insuf)    .00000     .00000         15    
+entity student.OtherTime                    .00000     (Insuf)    .00000     .00000         15    
+entity student.TotalTime                    19.949     (Insuf)    15.089     27.124         15    
+problem process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          4    
+practice process.Queue.WaitingTime          .61136     (Insuf)    .00000     5.4406         16    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+entity student.WIP                          1.3502     (Insuf)    .00000     4.0000     1.0000    
+teacher.NumberBusy                          .04073     (Insuf)    .00000     1.0000     .00000    
+teacher.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+teacher.Utilization                         .04073     (Insuf)    .00000     1.0000     .00000    
+machine_1.NumberBusy                        .51673     (Insuf)    .00000     1.0000     .00000    
+machine_1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_1.Utilization                       .51673     (Insuf)    .00000     1.0000     .00000    
+machine_3.NumberBusy                        .29416     (Insuf)    .00000     1.0000     .00000    
+machine_3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_3.Utilization                       .29416     (Insuf)    .00000     1.0000     .00000    
+machine_2.NumberBusy                        .37395     (Insuf)    .00000     1.0000     .00000    
+machine_2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_2.Utilization                       .37395     (Insuf)    .00000     1.0000     .00000    
+assistant.NumberBusy                        .08396     (Insuf)    .00000     1.0000     1.0000    
+assistant.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+assistant.Utilization                       .08396     (Insuf)    .00000     1.0000     1.0000    
+problem process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+practice process.Queue.NumberInQueue        .04076     (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+entity student.NumberIn                     16.000    
+entity student.NumberOut                    15.000    
+teacher.NumberSeized                        1.0000    
+teacher.ScheduledUtilization                .04073    
+machine_1.NumberSeized                      7.0000    
+machine_1.ScheduledUtilization              .51673    
+machine_3.NumberSeized                      4.0000    
+machine_3.ScheduledUtilization              .29416    
+machine_2.NumberSeized                      5.0000    
+machine_2.ScheduledUtilization              .37395    
+assistant.NumberSeized                      3.0000    
+assistant.ScheduledUtilization              .08396    
+System.NumberOut                            15.000    
+
+Beginning replication 2 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 2 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/28/2020
+Analyst: ingrid                                                      Model revision date: 7/28/2020
+
+Replication ended at time      : 240.0 Minutes (Friday, July 31, 2020, 13:24:00)
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+entity student.VATime                       19.229     (Insuf)    15.463     26.447          9    
+entity student.NVATime                      .00000     (Insuf)    .00000     .00000          9    
+entity student.WaitTime                     .00000     (Insuf)    .00000     .00000          9    
+entity student.TranTime                     .00000     (Insuf)    .00000     .00000          9    
+entity student.OtherTime                    .00000     (Insuf)    .00000     .00000          9    
+entity student.TotalTime                    19.229     (Insuf)    15.463     26.447          9    
+problem process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          2    
+practice process.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000         11    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+entity student.WIP                          .78563     (Insuf)    .00000     3.0000     2.0000    
+teacher.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+teacher.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+teacher.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+machine_1.NumberBusy                        .50893     (Insuf)    .00000     1.0000     1.0000    
+machine_1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_1.Utilization                       .50893     (Insuf)    .00000     1.0000     1.0000    
+machine_3.NumberBusy                        .07238     (Insuf)    .00000     1.0000     .00000    
+machine_3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_3.Utilization                       .07238     (Insuf)    .00000     1.0000     .00000    
+machine_2.NumberBusy                        .14306     (Insuf)    .00000     1.0000     1.0000    
+machine_2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_2.Utilization                       .14306     (Insuf)    .00000     1.0000     1.0000    
+assistant.NumberBusy                        .06125     (Insuf)    .00000     1.0000     .00000    
+assistant.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+assistant.Utilization                       .06125     (Insuf)    .00000     1.0000     .00000    
+problem process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+practice process.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+entity student.NumberIn                     11.000    
+entity student.NumberOut                    9.0000    
+teacher.NumberSeized                        .00000    
+teacher.ScheduledUtilization                .00000    
+machine_1.NumberSeized                      7.0000    
+machine_1.ScheduledUtilization              .50893    
+machine_3.NumberSeized                      1.0000    
+machine_3.ScheduledUtilization              .07238    
+machine_2.NumberSeized                      3.0000    
+machine_2.ScheduledUtilization              .14306    
+assistant.NumberSeized                      2.0000    
+assistant.ScheduledUtilization              .06125    
+System.NumberOut                            9.0000    
+
+Beginning replication 3 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 3 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/28/2020
+Analyst: ingrid                                                      Model revision date: 7/28/2020
+
+Replication ended at time      : 240.0 Minutes (Friday, July 31, 2020, 13:24:00)
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+entity student.VATime                       17.835     (Insuf)    15.020     27.129         13    
+entity student.NVATime                      .00000     (Insuf)    .00000     .00000         13    
+entity student.WaitTime                     .00000     (Insuf)    .00000     .00000         13    
+entity student.TranTime                     .00000     (Insuf)    .00000     .00000         13    
+entity student.OtherTime                    .00000     (Insuf)    .00000     .00000         13    
+entity student.TotalTime                    17.835     (Insuf)    15.020     27.129         13    
+problem process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          1    
+practice process.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000         14    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+entity student.WIP                          1.0024     (Insuf)    .00000     3.0000     1.0000    
+teacher.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+teacher.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+teacher.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+machine_1.NumberBusy                        .53432     (Insuf)    .00000     1.0000     1.0000    
+machine_1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_1.Utilization                       .53432     (Insuf)    .00000     1.0000     1.0000    
+machine_3.NumberBusy                        .14273     (Insuf)    .00000     1.0000     .00000    
+machine_3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_3.Utilization                       .14273     (Insuf)    .00000     1.0000     .00000    
+machine_2.NumberBusy                        .28943     (Insuf)    .00000     1.0000     .00000    
+machine_2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_2.Utilization                       .28943     (Insuf)    .00000     1.0000     .00000    
+assistant.NumberBusy                        .03598     (Insuf)    .00000     1.0000     .00000    
+assistant.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+assistant.Utilization                       .03598     (Insuf)    .00000     1.0000     .00000    
+problem process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+practice process.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+entity student.NumberIn                     14.000    
+entity student.NumberOut                    13.000    
+teacher.NumberSeized                        .00000    
+teacher.ScheduledUtilization                .00000    
+machine_1.NumberSeized                      8.0000    
+machine_1.ScheduledUtilization              .53432    
+machine_3.NumberSeized                      2.0000    
+machine_3.ScheduledUtilization              .14273    
+machine_2.NumberSeized                      4.0000    
+machine_2.ScheduledUtilization              .28943    
+assistant.NumberSeized                      1.0000    
+assistant.ScheduledUtilization              .03598    
+System.NumberOut                            13.000    
+
+Beginning replication 4 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 4 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/28/2020
+Analyst: ingrid                                                      Model revision date: 7/28/2020
+
+Replication ended at time      : 240.0 Minutes (Friday, July 31, 2020, 13:24:00)
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+entity student.VATime                       20.439     (Insuf)    15.586     27.849         10    
+entity student.NVATime                      .00000     (Insuf)    .00000     .00000         10    
+entity student.WaitTime                     .00000     (Insuf)    .00000     .00000         10    
+entity student.TranTime                     .00000     (Insuf)    .00000     .00000         10    
+entity student.OtherTime                    .00000     (Insuf)    .00000     .00000         10    
+entity student.TotalTime                    20.439     (Insuf)    15.586     27.849         10    
+problem process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          4    
+practice process.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000         12    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+entity student.WIP                          .92363     (Insuf)    .00000     3.0000     2.0000    
+teacher.NumberBusy                          .03844     (Insuf)    .00000     1.0000     .00000    
+teacher.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+teacher.Utilization                         .03844     (Insuf)    .00000     1.0000     .00000    
+machine_1.NumberBusy                        .57586     (Insuf)    .00000     1.0000     .00000    
+machine_1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_1.Utilization                       .57586     (Insuf)    .00000     1.0000     .00000    
+machine_3.NumberBusy                        .02339     (Insuf)    .00000     1.0000     1.0000    
+machine_3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_3.Utilization                       .02339     (Insuf)    .00000     1.0000     1.0000    
+machine_2.NumberBusy                        .19118     (Insuf)    .00000     1.0000     1.0000    
+machine_2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_2.Utilization                       .19118     (Insuf)    .00000     1.0000     1.0000    
+assistant.NumberBusy                        .09476     (Insuf)    .00000     1.0000     .00000    
+assistant.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+assistant.Utilization                       .09476     (Insuf)    .00000     1.0000     .00000    
+problem process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+practice process.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+entity student.NumberIn                     12.000    
+entity student.NumberOut                    10.000    
+teacher.NumberSeized                        1.0000    
+teacher.ScheduledUtilization                .03844    
+machine_1.NumberSeized                      8.0000    
+machine_1.ScheduledUtilization              .57586    
+machine_3.NumberSeized                      1.0000    
+machine_3.ScheduledUtilization              .02339    
+machine_2.NumberSeized                      3.0000    
+machine_2.ScheduledUtilization              .19118    
+assistant.NumberSeized                      3.0000    
+assistant.ScheduledUtilization              .09476    
+System.NumberOut                            10.000    
+
+Beginning replication 5 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 5 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/28/2020
+Analyst: ingrid                                                      Model revision date: 7/28/2020
+
+Replication ended at time      : 240.0 Minutes (Friday, July 31, 2020, 13:24:00)
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+entity student.VATime                       17.669     (Insuf)    15.059     24.568         17    
+entity student.NVATime                      .00000     (Insuf)    .00000     .00000         17    
+entity student.WaitTime                     .29391     (Insuf)    .00000     4.9965         17    
+entity student.TranTime                     .00000     (Insuf)    .00000     .00000         17    
+entity student.OtherTime                    .00000     (Insuf)    .00000     .00000         17    
+entity student.TotalTime                    17.963     (Insuf)    15.059     24.568         17    
+problem process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          1    
+practice process.Queue.WaitingTime          .29391     (Insuf)    .00000     4.9965         17    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+entity student.WIP                          1.2724     (Insuf)    .00000     4.0000     .00000    
+teacher.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+teacher.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+teacher.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+machine_1.NumberBusy                        .64710     (Insuf)    .00000     1.0000     .00000    
+machine_1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_1.Utilization                       .64710     (Insuf)    .00000     1.0000     .00000    
+machine_3.NumberBusy                        .28993     (Insuf)    .00000     1.0000     .00000    
+machine_3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_3.Utilization                       .28993     (Insuf)    .00000     1.0000     .00000    
+machine_2.NumberBusy                        .28219     (Insuf)    .00000     1.0000     .00000    
+machine_2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+machine_2.Utilization                       .28219     (Insuf)    .00000     1.0000     .00000    
+assistant.NumberBusy                        .03238     (Insuf)    .00000     1.0000     .00000    
+assistant.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+assistant.Utilization                       .03238     (Insuf)    .00000     1.0000     .00000    
+problem process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+practice process.Queue.NumberInQueue        .02082     (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+entity student.NumberIn                     17.000    
+entity student.NumberOut                    17.000    
+teacher.NumberSeized                        .00000    
+teacher.ScheduledUtilization                .00000    
+machine_1.NumberSeized                      9.0000    
+machine_1.ScheduledUtilization              .64710    
+machine_3.NumberSeized                      4.0000    
+machine_3.ScheduledUtilization              .28993    
+machine_2.NumberSeized                      4.0000    
+machine_2.ScheduledUtilization              .28219    
+assistant.NumberSeized                      1.0000    
+assistant.ScheduledUtilization              .03238    
+System.NumberOut                            17.000    
+
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Output Summary for 5 Replications
+
+Project: Unnamed Project                                             Run execution date : 7/28/2020
+Analyst: ingrid                                                      Model revision date: 7/28/2020
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+entity student.NumberIn                     14.000     3.1651     11.000     17.000     5
+entity student.NumberOut                    12.800     4.1547     9.0000     17.000     5
+teacher.NumberSeized                        .40000     .67998     .00000     1.0000     5
+teacher.ScheduledUtilization                .01583     .02694     .00000     .04073     5
+machine_1.NumberSeized                      7.8000     1.0386     7.0000     9.0000     5
+machine_1.ScheduledUtilization              .55659     .07055     .50893     .64710     5
+machine_3.NumberSeized                      2.4000     1.8827     1.0000     4.0000     5
+machine_3.ScheduledUtilization              .16452     .15383     .02339     .29416     5
+machine_2.NumberSeized                      3.8000     1.0386     3.0000     5.0000     5
+machine_2.ScheduledUtilization              .25596     .11220     .14306     .37395     5
+assistant.NumberSeized                      2.0000     1.2414     1.0000     3.0000     5
+assistant.ScheduledUtilization              .06167     .03462     .03238     .09476     5
+System.NumberOut                            12.800     4.1547     9.0000     17.000     5
+
+Simulation run time: 0.18 minutes.
+Simulation run complete.

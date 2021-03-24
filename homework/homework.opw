@@ -1,0 +1,16 @@
+[RESOURCES]
+teacher
+machine_1
+machine_3
+machine_2
+assistant
+[VARIABLES]
+Decide 1.NumberOut False
+Dispose 2.NumberOut
+students.NumberOut
+Dispose 1.NumberOut
+practice process.NumberIn
+practice process.NumberOut
+problem process.NumberIn
+problem process.NumberOut
+Decide 1.NumberOut True

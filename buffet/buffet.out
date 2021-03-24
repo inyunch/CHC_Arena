@@ -1,0 +1,54 @@
+SIMAN Run Controller.
+
+5.2 Hours>
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/12/2020
+Analyst: ingrid                                                      Model revision date: 8/12/2020
+
+Replication ended at time      : 5.2 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+entity_jonah.VATime                         .33333     (Insuf)    .33333     .33333          5    
+entity_jonah.NVATime                        .00000     (Insuf)    .00000     .00000          5    
+entity_jonah.WaitTime                       .00000     (Insuf)    .00000     .00000          5    
+entity_jonah.TranTime                       .08333     (Insuf)    .08333     .08333          5    
+entity_jonah.OtherTime                      .00000     (Insuf)    .00000     .00000          5    
+entity_jonah.TotalTime                      .41667     (Insuf)    .41667     .41667          5    
+entity_ingrid.VATime                        .30000     (Insuf)    .30000     .30000          5    
+entity_ingrid.NVATime                       .00000     (Insuf)    .00000     .00000          5    
+entity_ingrid.WaitTime                      .00000     (Insuf)    .00000     .00000          5    
+entity_ingrid.TranTime                      .06667     (Insuf)    .06667     .06667          5    
+entity_ingrid.OtherTime                     .00000     (Insuf)    .00000     .00000          5    
+entity_ingrid.TotalTime                     .36667     (Insuf)    .36667     .36667          5    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+entity_jonah.WIP                            .43910     (Insuf)    .00000     1.0000     1.0000    
+entity_ingrid.WIP                           .39103     (Insuf)    .00000     1.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+entity_jonah.NumberIn                       6.0000    
+entity_jonah.NumberOut                      5.0000    
+entity_ingrid.NumberIn                      6.0000    
+entity_ingrid.NumberOut                     5.0000    
+System.NumberOut                            10.000    
+
+
+Simulation run time: 0.32 minutes.
+Simulation run complete.

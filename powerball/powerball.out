@@ -1,0 +1,43 @@
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/ 5/2020
+Analyst: ingrid                                                      Model revision date: 8/ 5/2020
+
+Replication ended at time      : 0.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Power_Entity.VATime                         .00000     (Insuf)    .00000     .00000          1    
+Power_Entity.NVATime                        .00000     (Insuf)    .00000     .00000          1    
+Power_Entity.WaitTime                       .00000     (Insuf)    .00000     .00000          1    
+Power_Entity.TranTime                       .00000     (Insuf)    .00000     .00000          1    
+Power_Entity.OtherTime                      .00000     (Insuf)    .00000     .00000          1    
+Power_Entity.TotalTime                      .00000     (Insuf)    .00000     .00000          1    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Power_Entity.WIP                            .00000     (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Power_Entity.NumberIn                       1.0000    
+Power_Entity.NumberOut                      1.0000    
+System.NumberOut                            1.0000    
+
+
+Simulation run time: 0.00 minutes.
+Simulation run complete.

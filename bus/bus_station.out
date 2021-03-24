@@ -1,0 +1,47 @@
+SIMAN Run Controller.
+
+1985.2286 Hours>
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/12/2020
+Analyst: ingrid                                                      Model revision date: 8/12/2020
+
+Replication ended at time      : 1985.2286 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .00000     .00000     .00000     .00000        370    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        370    
+Entity 1.WaitTime                           7.8943     1.8587     .00000     31.518        370    
+Entity 1.TranTime                           2.0000     3.2756E-16 2.0000     2.0000        370    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        370    
+Entity 1.TotalTime                          9.8943     1.8587     2.0000     33.518        370    
+Request taxi.Queue.WaitingTime              5.9287     1.8576     .00000     29.518        371    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                1.8643     .45021     .00000     9.0000     3.0000    
+Request taxi.Queue.NumberInQueue            1.1189     .40240     .00000     8.0000     2.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           373.00    
+Entity 1.NumberOut                          370.00    
+System.NumberOut                            370.00    
+
+
+Simulation run time: 2.80 minutes.
+Simulation run complete.

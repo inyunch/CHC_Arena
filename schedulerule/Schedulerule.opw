@@ -1,0 +1,11 @@
+[RESOURCES]
+Clerk
+[VARIABLES]
+Decide 2.NumberOut False
+Decide 1.NumberOut False
+Create 1.NumberOut
+Dispose 1.NumberOut
+Bank.NumberOut
+Bank.NumberIn
+Decide 2.NumberOut True
+Decide 1.NumberOut True

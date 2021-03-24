@@ -1,0 +1,437 @@
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 1 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/21/2020
+Analyst: ingrid                                                      Model revision date: 7/21/2020
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+record renew or apply                       28.155     (Insuf)    17.385     48.112         40    
+record new                                  17.123     (Insuf)    9.7677     35.484         64    
+Entity renew.VATime                         22.015     (Insuf)    17.083     28.404         40    
+Entity renew.NVATime                        .00000     (Insuf)    .00000     .00000         40    
+Entity renew.WaitTime                       6.1400     (Insuf)    .00000     25.074         40    
+Entity renew.TranTime                       .00000     (Insuf)    .00000     .00000         40    
+Entity renew.OtherTime                      .00000     (Insuf)    .00000     .00000         40    
+Entity renew.TotalTime                      28.155     (Insuf)    17.385     48.112         40    
+entity new.VATime                           12.735     (Insuf)    9.3626     14.741         64    
+entity new.NVATime                          .00000     (Insuf)    .00000     .00000         64    
+entity new.WaitTime                         4.3885     (Insuf)    .00000     21.289         64    
+entity new.TranTime                         .00000     (Insuf)    .00000     .00000         64    
+entity new.OtherTime                        .00000     (Insuf)    .00000     .00000         64    
+entity new.TotalTime                        17.123     (Insuf)    9.7677     35.484         64    
+renew process.Queue.WaitingTime             5.8477     (Insuf)    .00000     25.074         42    
+new process.Queue.WaitingTime               4.6985     (Insuf)    .00000     21.289         66    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity renew.WIP                            2.3656     (Insuf)    .00000     8.0000     2.0000    
+entity new.WIP                              2.3841     (Insuf)    .00000     8.0000     2.0000    
+Neil.NumberBusy                             .72872     (Insuf)    .00000     1.0000     .00000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .72872     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .62793     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .62793     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .67444     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .67444     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .75248     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .75248     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .80846     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .80846     (Insuf)    .00000     1.0000     1.0000    
+renew process.Queue.NumberInQueue           .51167     (Insuf)    .00000     5.0000     .00000    
+new process.Queue.NumberInQueue             .64605     (Insuf)    .00000     5.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity renew.NumberIn                       42.000    
+Entity renew.NumberOut                      40.000    
+entity new.NumberIn                         66.000    
+entity new.NumberOut                        64.000    
+Neil.NumberSeized                           21.000    
+Neil.ScheduledUtilization                   .72872    
+Jean.NumberSeized                           14.000    
+Jean.ScheduledUtilization                   .62793    
+Kathy.NumberSeized                          26.000    
+Kathy.ScheduledUtilization                  .67444    
+Mary.NumberSeized                           28.000    
+Mary.ScheduledUtilization                   .75248    
+Sue.NumberSeized                            19.000    
+Sue.ScheduledUtilization                    .80846    
+System.NumberOut                            104.00    
+
+Beginning replication 2 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 2 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/21/2020
+Analyst: ingrid                                                      Model revision date: 7/21/2020
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+record renew or apply                       33.383     (Insuf)    18.798     54.241         55    
+record new                                  18.337     (Insuf)    9.6889     32.934         70    
+Entity renew.VATime                         22.551     (Insuf)    18.094     27.070         55    
+Entity renew.NVATime                        .00000     (Insuf)    .00000     .00000         55    
+Entity renew.WaitTime                       10.832     (Insuf)    .00000     29.651         55    
+Entity renew.TranTime                       .00000     (Insuf)    .00000     .00000         55    
+Entity renew.OtherTime                      .00000     (Insuf)    .00000     .00000         55    
+Entity renew.TotalTime                      33.383     (Insuf)    18.798     54.241         55    
+entity new.VATime                           12.567     (Insuf)    9.3481     15.145         70    
+entity new.NVATime                          .00000     (Insuf)    .00000     .00000         70    
+entity new.WaitTime                         5.7695     (Insuf)    .00000     20.341         70    
+entity new.TranTime                         .00000     (Insuf)    .00000     .00000         70    
+entity new.OtherTime                        .00000     (Insuf)    .00000     .00000         70    
+entity new.TotalTime                        18.337     (Insuf)    9.6889     32.934         70    
+renew process.Queue.WaitingTime             10.895     (Insuf)    .00000     29.651         58    
+new process.Queue.WaitingTime               5.6628     (Insuf)    .00000     20.341         72    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity renew.WIP                            4.0038     (Insuf)    .00000     7.0000     5.0000    
+entity new.WIP                              2.7051     (Insuf)    .00000     7.0000     3.0000    
+Neil.NumberBusy                             .91590     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .91590     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberBusy                             .93591     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .93591     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .83262     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .83262     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .86685     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .86685     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .96577     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .96577     (Insuf)    .00000     1.0000     1.0000    
+renew process.Queue.NumberInQueue           1.3413     (Insuf)    .00000     4.0000     2.0000    
+new process.Queue.NumberInQueue             .85057     (Insuf)    .00000     4.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity renew.NumberIn                       60.000    
+Entity renew.NumberOut                      55.000    
+entity new.NumberIn                         73.000    
+entity new.NumberOut                        70.000    
+Neil.NumberSeized                           23.000    
+Neil.ScheduledUtilization                   .91590    
+Jean.NumberSeized                           20.000    
+Jean.ScheduledUtilization                   .93591    
+Kathy.NumberSeized                          33.000    
+Kathy.ScheduledUtilization                  .83262    
+Mary.NumberSeized                           33.000    
+Mary.ScheduledUtilization                   .86685    
+Sue.NumberSeized                            21.000    
+Sue.ScheduledUtilization                    .96577    
+System.NumberOut                            125.00    
+
+Beginning replication 3 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 3 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/21/2020
+Analyst: ingrid                                                      Model revision date: 7/21/2020
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+record renew or apply                       37.996     (Insuf)    17.140     77.488         54    
+record new                                  18.715     (Insuf)    10.058     39.445         75    
+Entity renew.VATime                         22.266     (Insuf)    17.140     28.865         54    
+Entity renew.NVATime                        .00000     (Insuf)    .00000     .00000         54    
+Entity renew.WaitTime                       15.729     (Insuf)    .00000     57.329         54    
+Entity renew.TranTime                       .00000     (Insuf)    .00000     .00000         54    
+Entity renew.OtherTime                      .00000     (Insuf)    .00000     .00000         54    
+Entity renew.TotalTime                      37.996     (Insuf)    17.140     77.488         54    
+entity new.VATime                           12.567     (Insuf)    9.4644     14.816         75    
+entity new.NVATime                          .00000     (Insuf)    .00000     .00000         75    
+entity new.WaitTime                         6.1481     (Insuf)    .00000     25.046         75    
+entity new.TranTime                         .00000     (Insuf)    .00000     .00000         75    
+entity new.OtherTime                        .00000     (Insuf)    .00000     .00000         75    
+entity new.TotalTime                        18.715     (Insuf)    10.058     39.445         75    
+renew process.Queue.WaitingTime             15.089     (Insuf)    .00000     57.329         57    
+new process.Queue.WaitingTime               6.0051     (Insuf)    .00000     25.046         77    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity renew.WIP                            4.4853     (Insuf)    .00000     10.000     6.0000    
+entity new.WIP                              2.9593     (Insuf)    .00000     8.0000     3.0000    
+Neil.NumberBusy                             .93011     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .93011     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberBusy                             .97593     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .97593     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .86044     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .86044     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .88502     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .88502     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .93964     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .93964     (Insuf)    .00000     1.0000     1.0000    
+renew process.Queue.NumberInQueue           1.8831     (Insuf)    .00000     7.0000     3.0000    
+new process.Queue.NumberInQueue             .97039     (Insuf)    .00000     5.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity renew.NumberIn                       60.000    
+Entity renew.NumberOut                      54.000    
+entity new.NumberIn                         78.000    
+entity new.NumberOut                        75.000    
+Neil.NumberSeized                           24.000    
+Neil.ScheduledUtilization                   .93011    
+Jean.NumberSeized                           21.000    
+Jean.ScheduledUtilization                   .97593    
+Kathy.NumberSeized                          33.000    
+Kathy.ScheduledUtilization                  .86044    
+Mary.NumberSeized                           35.000    
+Mary.ScheduledUtilization                   .88502    
+Sue.NumberSeized                            21.000    
+Sue.ScheduledUtilization                    .93964    
+System.NumberOut                            129.00    
+
+Beginning replication 4 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 4 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/21/2020
+Analyst: ingrid                                                      Model revision date: 7/21/2020
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+record renew or apply                       29.370     (Insuf)    19.228     45.394         53    
+record new                                  14.954     (Insuf)    8.9075     23.997         67    
+Entity renew.VATime                         22.927     (Insuf)    18.578     28.436         53    
+Entity renew.NVATime                        .00000     (Insuf)    .00000     .00000         53    
+Entity renew.WaitTime                       6.4429     (Insuf)    .00000     22.888         53    
+Entity renew.TranTime                       .00000     (Insuf)    .00000     .00000         53    
+Entity renew.OtherTime                      .00000     (Insuf)    .00000     .00000         53    
+Entity renew.TotalTime                      29.370     (Insuf)    19.228     45.394         53    
+entity new.VATime                           12.281     (Insuf)    8.9075     14.544         67    
+entity new.NVATime                          .00000     (Insuf)    .00000     .00000         67    
+entity new.WaitTime                         2.6732     (Insuf)    .00000     12.606         67    
+entity new.TranTime                         .00000     (Insuf)    .00000     .00000         67    
+entity new.OtherTime                        .00000     (Insuf)    .00000     .00000         67    
+entity new.TotalTime                        14.954     (Insuf)    8.9075     23.997         67    
+renew process.Queue.WaitingTime             6.3154     (Insuf)    .00000     22.888         55    
+new process.Queue.WaitingTime               2.6964     (Insuf)    .00000     12.606         69    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity renew.WIP                            3.2800     (Insuf)    .00000     7.0000     2.0000    
+entity new.WIP                              2.1338     (Insuf)    .00000     6.0000     2.0000    
+Neil.NumberBusy                             .90290     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .90290     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberBusy                             .93444     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .93444     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .78058     (Insuf)    .00000     1.0000     .00000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .78058     (Insuf)    .00000     1.0000     .00000    
+Mary.NumberBusy                             .76884     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .76884     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .91592     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .91592     (Insuf)    .00000     1.0000     1.0000    
+renew process.Queue.NumberInQueue           .72365     (Insuf)    .00000     4.0000     .00000    
+new process.Queue.NumberInQueue             .38762     (Insuf)    .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity renew.NumberIn                       55.000    
+Entity renew.NumberOut                      53.000    
+entity new.NumberIn                         69.000    
+entity new.NumberOut                        67.000    
+Neil.NumberSeized                           23.000    
+Neil.ScheduledUtilization                   .90290    
+Jean.NumberSeized                           20.000    
+Jean.ScheduledUtilization                   .93444    
+Kathy.NumberSeized                          30.000    
+Kathy.ScheduledUtilization                  .78058    
+Mary.NumberSeized                           31.000    
+Mary.ScheduledUtilization                   .76884    
+Sue.NumberSeized                            20.000    
+Sue.ScheduledUtilization                    .91592    
+System.NumberOut                            120.00    
+
+Beginning replication 5 of 5
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Summary for Replication 5 of 5
+
+Project: Unnamed Project                                             Run execution date : 7/21/2020
+Analyst: ingrid                                                      Model revision date: 7/21/2020
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+record renew or apply                       39.679     (Insuf)    17.453     71.528         60    
+record new                                  18.959     (Insuf)    9.1953     32.686         70    
+Entity renew.VATime                         21.575     (Insuf)    16.841     27.757         60    
+Entity renew.NVATime                        .00000     (Insuf)    .00000     .00000         60    
+Entity renew.WaitTime                       18.103     (Insuf)    .00000     44.280         60    
+Entity renew.TranTime                       .00000     (Insuf)    .00000     .00000         60    
+Entity renew.OtherTime                      .00000     (Insuf)    .00000     .00000         60    
+Entity renew.TotalTime                      39.679     (Insuf)    17.453     71.528         60    
+entity new.VATime                           12.483     (Insuf)    9.1953     14.771         70    
+entity new.NVATime                          .00000     (Insuf)    .00000     .00000         70    
+entity new.WaitTime                         6.4757     (Insuf)    .00000     20.157         70    
+entity new.TranTime                         .00000     (Insuf)    .00000     .00000         70    
+entity new.OtherTime                        .00000     (Insuf)    .00000     .00000         70    
+entity new.TotalTime                        18.959     (Insuf)    9.1953     32.686         70    
+renew process.Queue.WaitingTime             18.813     (Insuf)    .00000     44.280         63    
+new process.Queue.WaitingTime               6.5950     (Insuf)    .00000     20.157         72    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity renew.WIP                            5.3462     (Insuf)    .00000     10.000     8.0000    
+entity new.WIP                              2.9047     (Insuf)    .00000     7.0000     7.0000    
+Neil.NumberBusy                             .97200     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .97200     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberBusy                             .95956     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .95956     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .77004     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .77004     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .86437     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .86437     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .99814     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .99814     (Insuf)    .00000     1.0000     1.0000    
+renew process.Queue.NumberInQueue           2.6287     (Insuf)    .00000     7.0000     5.0000    
+new process.Queue.NumberInQueue             1.0581     (Insuf)    .00000     5.0000     5.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity renew.NumberIn                       68.000    
+Entity renew.NumberOut                      60.000    
+entity new.NumberIn                         77.000    
+entity new.NumberOut                        70.000    
+Neil.NumberSeized                           26.000    
+Neil.ScheduledUtilization                   .97200    
+Jean.NumberSeized                           23.000    
+Jean.ScheduledUtilization                   .95956    
+Kathy.NumberSeized                          31.000    
+Kathy.ScheduledUtilization                  .77004    
+Mary.NumberSeized                           33.000    
+Mary.ScheduledUtilization                   .86437    
+Sue.NumberSeized                            22.000    
+Sue.ScheduledUtilization                    .99814    
+System.NumberOut                            130.00    
+
+
+                                      ARENA Simulation Results
+                                               ingrid
+
+                                  Output Summary for 5 Replications
+
+Project: Unnamed Project                                             Run execution date : 7/21/2020
+Analyst: ingrid                                                      Model revision date: 7/21/2020
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Entity renew.NumberIn                       57.000     11.907     42.000     68.000     5
+Entity renew.NumberOut                      52.400     9.2320     40.000     60.000     5
+entity new.NumberIn                         72.600     6.3666     66.000     78.000     5
+entity new.NumberOut                        69.200     5.0733     64.000     75.000     5
+Neil.NumberSeized                           23.400     2.2552     21.000     26.000     5
+Neil.ScheduledUtilization                   .88992     .11643     .72872     .97200     5
+Jean.NumberSeized                           19.600     4.1732     14.000     23.000     5
+Jean.ScheduledUtilization                   .88675     .18090     .62793     .97593     5
+Kathy.NumberSeized                          30.600     3.5766     26.000     33.000     5
+Kathy.ScheduledUtilization                  .78362     .08869     .67444     .86044     5
+Mary.NumberSeized                           32.000     3.2846     28.000     35.000     5
+Mary.ScheduledUtilization                   .82751     .07674     .75248     .88502     5
+Sue.NumberSeized                            20.600     1.4154     19.000     22.000     5
+Sue.ScheduledUtilization                    .92559     .08971     .80846     .99814     5
+System.NumberOut                            121.60     13.156     104.00     130.00     5
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

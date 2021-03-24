@@ -1,0 +1,16 @@
+[RESOURCES]
+[VARIABLES]
+Decide 2.NumberOut False
+Decide 3.NumberOut False
+Decide 4.NumberOut False
+Decide 5.NumberOut False
+Decide 6.NumberOut False
+number
+Power
+Dispose 5.NumberOut
+Create powerball.NumberOut
+Decide 2.NumberOut True
+Decide 3.NumberOut True
+Decide 4.NumberOut True
+Decide 5.NumberOut True
+Decide 6.NumberOut True

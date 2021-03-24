@@ -1,0 +1,7 @@
+[RESOURCES]
+Clerk
+[VARIABLES]
+Separate 1.NumberOut Orig
+Dispose 1.NumberOut
+Create Customer.NumberOut
+Lucky bag.NumberOut
